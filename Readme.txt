@@ -1,1 +1,1 @@
-This is my journey using the HackRank plataform to study code.
+This is my journey using the HackerRank plataform to study code.
